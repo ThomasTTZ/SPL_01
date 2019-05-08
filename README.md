@@ -4,9 +4,10 @@
 
 ## Markedown-Übung
 
-* Punkt 1
-* Punkt 2
-* Punkt 3
+* Überschriften
+* Verlinkungen
+* Todo-Listen
+* Code-Snippets
 
 [HTL] (https://www.htl-leoben.org)
 
@@ -16,3 +17,10 @@ public static void main(String[] args){
   System.out.println("-----------");
 }
 ```
+
+## Aufgaben für heute:
+
+-[] git Grundlagen
+-[] git Übungen
+-[] git in der Kommandozeile (Konsole)
+-[] Java Coding Dojo
